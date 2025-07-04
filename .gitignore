@@ -1,4 +1,5 @@
 *.zip
+*.html
 kaggle/api/*
 **/.kagglehub_cache/*
 # Byte-compiled / optimized / DLL files
