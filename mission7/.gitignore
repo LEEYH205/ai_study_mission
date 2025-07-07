@@ -1,9 +1,9 @@
 *.zip
 kaggle/api/*
 .kagglehub_cache/*
-.data/*
-.image/*
-.pth/*
+./data/*
+./image/*
+./pth/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
