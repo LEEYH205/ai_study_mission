@@ -5,6 +5,7 @@ kaggle/api/*
 .image/*
 .pth/*
 nltk_data/*
+glove/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
